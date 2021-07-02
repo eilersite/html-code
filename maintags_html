@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv = "content-type" content = "text/html" charset = "UTF-8"> 
+        <title>сайть</title>
+    </head>
+    <body>
+        <div>
+            <h1>заголовок 1</h1>
+            <h2>заголовок 2</h2>
+            <h3>заголовок 3</h3>
+            <h4>заголовок 4</h4>
+            <h5>заголовок 5</h5>
+            <h6>заголовок 6</h6>
+        </div>
+        <div>
+            <ol>
+                <li>элемент упорядоченного списка</li>
+                <li>элемент упорядоченного списка</li>
+            </ol>
+            <ul>
+            <li>элемент неупорядоченного списка</li>
+                <li>элемент неупорядоченного списка</li>
+            </ul>
+        </div>
+        <div>
+            <p><a href="https://www.apple.com/ru/" target="_blank">ссылка</a><br></p>
+            <p><strong> жирный текст</strong><br></p>
+            <em> курсив</em><br>
+            <small> маленький текст</small>
+        </div>
+        <div>
+            <h1>Билли</h1>
+            <img height="600" width="450" src="http://sun9-58.userapi.com/impf/c841237/v841237737/7c681/mK581DELoqo.jpg?size=256x341&quality=96&sign=f39392676295c0b7d6366db6273a4014&type=album">
+            <table border="5">
+                <tr>
+                    <th>ячейка таблицы 1</th> <th>ячейка таблицы 2</th>          
+                </tr>
+                <tr>
+                    <th>ячейка таблицы 3</th> <th>ячейка таблицы 4</th>          
+                </tr>
+            </table>
+        </div>
+        <div>
+            <input value="тута текст писать мона">
+            <input placeholder="шо искать будем"><br>
+            <textarea name="имя какое то" id="123" cols="30" rows="10"></textarea>
+            <audio controls> <source src="стас.mp3" type="audio/mpeg"> </audio><br>
+            <video controls height="300" width="300"> <source src="video.mp4"> </video>
+        </div>
+    </body>
+</html>
